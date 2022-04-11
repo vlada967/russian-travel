@@ -17,6 +17,12 @@
     padding: 28px 0 24px;
 }
 
+@media screen and (max-width: 984px) {
+    .root {
+        padding: 16px 0 24px;
+    }
+}
+
 @media screen and (max-width: 568px) {
     .root {
         padding: 16px 0 24px;
